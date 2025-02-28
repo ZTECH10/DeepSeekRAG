@@ -13,15 +13,14 @@ DeepSeekRAG is a retrieval-augmented generation (RAG) application that integrate
 - Provide a high-level overview of how the system processes uploads and queries.
 - Focuses on key stages: file ingestion, storage, retrieval, generation, and caching.
 
-![alt text](image.png)
-
+![alt text](application_workflow_overview.png)
 
 ### Application Workflow Details:
 --------------------------------
 - Breaks down components and technologies used at each stage.
 - Shows specific libraries (PyPDF2, BeautifulSoup, Whoosh, ChromaDB, Hugging Face).
 - Includes error handling, ranking, and streaming logic.
-![alt text](image-1.png)
+![alt text](application_workflow_details.png)
 
 ### Python-based Tech Stack Choices and Why?
 --------------------------------
